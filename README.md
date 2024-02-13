@@ -1,2 +1,2 @@
-# static-page-01
-Repositório para página estática "Static"
+# Pagínas de treino
+Repositório para página estática "Static Brand"
